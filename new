@@ -1,0 +1,59 @@
+<h3>🎮 专业代装Steam客户端服务 🎮</h3>
+<p><strong>告别繁琐，一键畅游游戏世界！</strong>无论您是电脑新手还是遇到网络问题，我们为您提供省心、专业的Steam平台安装服务。</p >
+
+<h4>💡 为什么选择我们？</h4>
+<ul>
+  <li><strong>官方正版：</strong>确保安装来源纯净安全，绝无病毒木马。</li>
+  <li><strong>高效快捷：</strong>经验丰富，流程熟练，为您节省大量时间。</li>
+  <li><strong>包教包会：</strong>安装后提供基础使用指导，让您快速上手。</li>
+  <li><strong>售后无忧：</strong>安装过程中遇到任何问题，均可联系解答。</li>
+</ul>
+
+<h4>💰 明码标价，服务透明</h4>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px; text-align: left;"><strong>服务项目</strong></th>
+      <th style="padding: 8px; text-align: left;"><strong>服务内容</strong></th>
+      <th style="padding: 8px; text-align: left;"><strong>价格</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;"><strong>🖥️ Windows标准版</strong></td>
+      <td style="padding: 8px;">提供官方正版Steam安装包 + 文字指导</td>
+      <td style="padding: 8px;"><strong>3元</strong></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>🖥️ Windows豪华版</strong></td>
+      <td style="padding: 8px;">远程协助安装（TeamViewer/ToDesk），直达完成</td>
+      <td style="padding: 8px;"><strong>8元</strong></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>🖥️ Windows尊享版</strong></td>
+      <td style="padding: 8px;">远程安装 + <strong>代注册Steam账号</strong> + 加速器推荐/安装</td>
+      <td style="padding: 8px;"><strong>18元</strong></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;"><strong>📱 安卓手机端</strong></td>
+      <td style="padding: 8px;">提供安装包 + 指导安装，或使用远程协助安装</td>
+      <td style="padding: 8px;"><strong>5元</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>注：安卓端服务若与Win端同时购买，可享优惠。</em></p >
+
+<h4>📋 购买前请务必阅读</h4>
+<ol>
+  <li><strong>服务方式：</strong>远程协助需要您提前下载好【ToDesk】或【TeamViewer】等远程软件。</li>
+  <li><strong>账号安全：</strong>代注册账号需要您提供一个未注册过的邮箱，并请于完成后及时修改密码，确保安全。</li>
+  <li><strong>网络问题：</strong>Steam社区/商店访问缓慢属于正常网络现象，非安装问题。我们会提供加速器解决方案。</li>
+  <li><strong>服务范围：</strong>本服务仅限Steam<strong>平台客户端</strong>的安装与调试，<strong>不包含游戏破解、盗版及游戏内容指导</strong>。</li>
+</ol>
+
+<h4>🚀 购买流程</h4>
+<p>1. 拍下对应价格的服务链接 → 2. 联系客服说明您的需求和系统（Win/安卓） → 3. 约定时间开始服务 → 4. 确认完成</p >
+
+<p>如果您不确定该选择哪项服务，<strong>请直接私信我！</strong>我会为您推荐最合适的方案。</p >
+<p>感谢您的浏览，期待为您服务！</p >
